@@ -7,7 +7,7 @@ type ChainTokenList = {
   readonly [chainId in ChainId]: Token[]
 }
 
-export const CAKE = new Token(ChainId.BSCTESTNET, '0x1da3c41d108351df5fff15c2af98e59679b405c2', 18, 'CAKE', 'PancakeSwap Token')
+export const CAKE = new Token(ChainId.BSCTESTNET, '0x383c9a0b268e46ba5c3f73c652063a190aee4275', 18, 'CAKE', 'PancakeSwap Token')
 export const WBNB = new Token(ChainId.BSCTESTNET, '0x72c39112603baa8289a5d13ae6a8e2865ce3ceba', 18, 'WBNB', 'Wrapped BNB')
 export const DAI = new Token(ChainId.BSCTESTNET, '0x19dfc37c723938ffd110a778238c963286b84716', 18, 'DAI', 'Dai Stablecoin')
 export const BUSD = new Token(ChainId.BSCTESTNET, '0x28e61132cd5ae087dca5c5c577d9288f49bc8929', 18, 'BUSD', 'Binance USD')
