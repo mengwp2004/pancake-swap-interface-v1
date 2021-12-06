@@ -21,7 +21,7 @@
     {
       "name": "Bakery Token",
       "symbol": "BAKE",
-      "address": "0x6c527dce5998de893b59930d91dc579824b6c27c",
+      "address": "0x54ab9d8a5e47627ff0e54de9856924a6a9edd274",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
@@ -29,6 +29,14 @@
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
+      "address": "0x28e61132cd5ae087dca5c5c577d9288f49bc8929",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
       "address": "0xa36852c64c7f19bea89718e2ee81288ec8dd0380",
       "chainId": 97,
       "decimals": 18,
